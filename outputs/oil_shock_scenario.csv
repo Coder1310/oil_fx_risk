@@ -1,0 +1,8 @@
+metric,value
+oil_shock_threshold,-0.037353553070649206
+number_of_shock_days,327.0
+mean_oil_return_on_shock_days,-0.059827000006326785
+mean_nok_loss_on_shock_days,0.00546104796862187
+mean_sek_loss_on_shock_days,0.002699362205944981
+var95_nok_loss_on_shock_days,0.024382155592393782
+var95_sek_loss_on_shock_days,0.02199820723210828
